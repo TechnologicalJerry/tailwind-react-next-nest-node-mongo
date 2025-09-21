@@ -1,2 +1,1 @@
-# mern-stack-todos-list
-A simple Todos's list application.
+# tailwind-react-next-nest-node-mongo
