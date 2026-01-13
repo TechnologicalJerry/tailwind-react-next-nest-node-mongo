@@ -14,7 +14,7 @@ import { AuthModule } from './auth/auth.module';
     }),
     MongooseModule.forRoot(
       process.env.MONGO_URI ||
-        'mongodb://localhost:27017/tailwind-angular-nest-node-mongo',
+        'mongodb://localhost:27017/tailwind-react-next-nest-node-mongo',
     ),
     UsersModule,
     ProductsModule,
