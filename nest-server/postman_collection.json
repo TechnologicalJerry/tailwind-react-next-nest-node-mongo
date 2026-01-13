@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "tailwind-angular-nest-node-mongo",
+		"_postman_id": "tailwind-react-next-nest-node-mongo",
 		"name": "Swagger REST Nest Node Mongo",
 		"description": "Postman collection for Swagger REST Nest Node Mongo API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
